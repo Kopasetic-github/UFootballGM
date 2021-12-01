@@ -1,7 +1,7 @@
 [
-{"city" : "British Columbia","mascot" : "Lions","short" : "BC","homeText" : "000000","homeMain" : "f15623","homeSecondary" : "FFFFFF","awayText" : "000000","awayMain" : "FFFFFF","awaySecondary" : "f15623"},
-{"city" : "Calgary","mascot" : "Stampeders","short" : "CAL","homeText" : "FFFFFF","homeMain" : "d0202d","homeSecondary" : "000000","awayText" : "000000","awayMain" : "FFFFFF","awaySecondary" : "D0202D"},
-{"city" : "Salt Lake","mascot" : "Screaming Eagles","short" : "SLC","homeText" : "FFFFFF","homeMain" : "0000FF","homeSecondary" : "ff0000","awayText" : "0000FF","awayMain" : "FFFFFF","awaySecondary" : "ff0000"},
+{"city" : "British Columbia","mascot" : "Lions","short" : "BC","homeText" : "000000","homeMain" : "F15623","homeSecondary" : "FFFFFF","awayText" : "000000","awayMain" : "FFFFFF","awaySecondary" : "F15623"},
+{"city" : "Calgary","mascot" : "Stampeders","short" : "CAL","homeText" : "FFFFFF","homeMain" : "D0202D","homeSecondary" : "000000","awayText" : "000000","awayMain" : "FFFFFF","awaySecondary" : "D0202D"},
+{"city" : "Salt Lake","mascot" : "Screaming Eagles","short" : "SLC","homeText" : "FFFFFF","homeMain" : "0000FF","homeSecondary" : "ff0000","awayText" : "0000FF","awayMain" : "FFFFFF","awaySecondary" : "FF0000"},
 {"city" : "Portland","mascot" : "Timbers","short" : "POR","homeText" : "FFFFFF","homeMain" : "330072","homeSecondary" : "DC4405","awayText" : "330072","awayMain" : "FFFFFF","awaySecondary" : "DC4405"},
 {"city" : "Arizona","mascot" : "Rattlers","short" : "ARZ","homeText" : "010101","homeMain" : "009CA6","homeSecondary" : "8F654D","awayText" : "8F654D","awayMain" : "FFFFFF","awaySecondary" : "009CA6"},
 {"city" : "Los Angeles","mascot" : "Avengers","short" : "LA","homeText" : "418FDE","homeMain" : "041E42","homeSecondary" : "A6192E","awayText" : "041E42","awayMain" : "FFFFFF","awaySecondary" : "418FDE"},
